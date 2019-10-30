@@ -23,11 +23,19 @@
 
 <body>
 
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 
-
-    <div id="mapid" style="width: 600px; height: 400px;"></div>
+    <div id="map"></div>
     <script>
-        var mymap = L.map('mapid').setView([51.505, -0.09], 13);
+        var mymap = L.map('map').setView([49.2827, -123.1207], 12);
 
         var hotDogIcon = new L.Icon({
             iconSize: [27, 27],
@@ -45,11 +53,24 @@
             const data = xhr.response.features
             const hotDogData = data.filter(point => point.properties.DESCRIPTION === "Hot Dogs")
             if (xhr.status !== 200) return
+
             L.geoJSON(hotDogData, {
                 pointToLayer: function (feature, latlng) {
-                    return L.marker(latlng, {
+                    const popup = L.popup().setContent("My hot dogs are so good they call me " + feature
+                        .properties.BUSINESS_NAME);
+                    const marker = L.marker(latlng, {
                         icon: hotDogIcon
                     });
+                    marker.bindPopup(popup);
+
+                    // var mypopup = L.popup().setContent("latlng: " + latlng);
+                    // var mymarker = L.circleMarker(latlng, geojsonMarkerOptions);
+
+                    // mymarker.bindPopup(mypopup);
+                    // return mymarker;
+
+
+                    return marker;
                 }
             }).addTo(mymap);
         };
