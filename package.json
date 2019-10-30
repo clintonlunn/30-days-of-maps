@@ -1,0 +1,27 @@
+{
+  "name": "30-days-of-maps",
+  "version": "1.0.0",
+  "description": "30 days of maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clintonlunn/30-days-of-maps.git"
+  },
+  "author": "Clinton lunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clintonlunn/30-days-of-maps/issues"
+  },
+  "homepage": "https://github.com/clintonlunn/30-days-of-maps#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "fs-extra": "^8.1.0",
+    "leaflet": "^1.5.1"
+  },
+  "devDependencies": {
+    "geojson": "^0.5.0"
+  }
+}

@@ -1,0 +1,1385 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119863220162998,49.283468033509799 ]
+   },
+   "properties": {
+   "KEY":"DT38",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"South Side of 800 W Georgia St - 55 Metres West of Howe St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.121387999999996,49.282313000000002 ]
+   },
+   "properties": {
+   "KEY":"DT75V",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"on hold",
+   "BUSINESS_NAME":"",
+   "LOCATION":"South Side of 800 Robson St - 28 Metres East of Hornby St",
+   "DESCRIPTION":"Wraps and Sandwiches"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.121307872222005,49.282275315129198 ]
+   },
+   "properties": {
+   "KEY":"DT39V",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"on hold",
+   "BUSINESS_NAME":"",
+   "LOCATION":"South Side of 800 Robson St  -30 Metres West of Howe St",
+   "DESCRIPTION":"Western"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.110258929797993,49.279889700465901 ]
+   },
+   "properties": {
+   "KEY":"DT02",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"North Side of Dunsmuir St - 6 Metres East of Beatty St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.121122000000000,49.282108999999998 ]
+   },
+   "properties": {
+   "KEY":"DT74V",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"on hold",
+   "BUSINESS_NAME":"",
+   "LOCATION":"South Side of 800 Robson St- 13 Metres West of Howe St",
+   "DESCRIPTION":"Variety Menu"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.114069374134004,49.277427325293999 ]
+   },
+   "properties": {
+   "KEY":"DT48",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"East Side of 800 Beatty St - 6 Metres South of Robson St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.121480946570003,49.282584448484201 ]
+   },
+   "properties": {
+   "KEY":"DT58V",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"on hold",
+   "BUSINESS_NAME":"",
+   "LOCATION":"North Side of 800 Robson St - East of Hornby St",
+   "DESCRIPTION":"Shawarma"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.117031734899996,49.209891679266200 ]
+   },
+   "properties": {
+   "KEY":"OD12",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"East Side of 8400 Cambie St - 75 Metres South of SW Marine Dr",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.069072741187000,49.262216047658299 ]
+   },
+   "properties": {
+   "KEY":"OD05",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"South Side of 1700 East Broadway - 37 Metres East of Commercial Dr",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.106609298224001,49.283989174405200 ]
+   },
+   "properties": {
+   "KEY":"GT04",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"North Side of 100 Water St - 10 Metres West of Abbott St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.143229444439001,49.288728488158100 ]
+   },
+   "properties": {
+   "KEY":"EB05",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"South Side of 1900 Beach Ave - 17 Metres West of Gilford St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.108008079327007,49.278793053754299 ]
+   },
+   "properties": {
+   "KEY":"DT10",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"Expo Boulevard - 20 Metres West of Abbott St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118426844134007,49.282470148547802 ]
+   },
+   "properties": {
+   "KEY":"GM18",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"West Side of 700 Granville St - 5 Metres South of W Georgia St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122520505305999,49.283222497624401 ]
+   },
+   "properties": {
+   "KEY":"DT13",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"North Side of 900 Robson St - 6 Metres East of Burrard St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122119558315006,49.279745514680300 ]
+   },
+   "properties": {
+   "KEY":"GM11",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"East Side of 900 Granville St - 75 Metres South of Smithe St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.109160409685998,49.284446790659203 ]
+   },
+   "properties": {
+   "KEY":"GT05",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"North Side of 300 Water St - 17 Metres West of Cambie St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122779848109005,49.274750229558201 ]
+   },
+   "properties": {
+   "KEY":"DT21",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"South Side of 300 Davie St - 6 Metres East of Hamilton St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120951896798005,49.280517857830603 ]
+   },
+   "properties": {
+   "KEY":"GM05",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"East Side of 800 Granville St - 30 Metres North of Smithe St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118235028068000,49.282319592486999 ]
+   },
+   "properties": {
+   "KEY":"GM03",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"East side of 700 Granville St - 6 Metres South W Georgia St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.142926123067994,49.284492517330001 ]
+   },
+   "properties": {
+   "KEY":"EB04",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"South Side of 1700 Beach Ave - East Side of Bidwell St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.121070522118004,49.282280404515902 ]
+   },
+   "properties": {
+   "KEY":"DT36V",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"on hold",
+   "BUSINESS_NAME":"",
+   "LOCATION":"North Side of 800 Robson St - 30 Metres West of Howe St",
+   "DESCRIPTION":"Thai Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122731856952996,49.283488792081002 ]
+   },
+   "properties": {
+   "KEY":"DT37",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"",
+   "LOCATION":"West Side of 700 Burrard St - 15 Metres North of Robson St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.116782000000001,49.286949000000000 ]
+   },
+   "properties": {
+   "KEY":"DT61",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Actual Oden",
+   "LOCATION":"South Side of 900 W Hastings - 10 metres East of Burrard St",
+   "DESCRIPTION":"Japanese Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.123569702796004,49.283922020680301 ]
+   },
+   "properties": {
+   "KEY":"DT79",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Ali's Hot Dogs",
+   "LOCATION":"North Side of 1000 Robson St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122918691376000,49.283096706897098 ]
+   },
+   "properties": {
+   "KEY":"C7",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Aria Kitchen",
+   "LOCATION":"Authorised Parking Meter East Side of 800 Burrard St",
+   "DESCRIPTION":"Middle Eastern Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.113567537335996,49.286528220057399 ]
+   },
+   "properties": {
+   "KEY":"DT57",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Arturo's Mexico To Go",
+   "LOCATION":"North Side of 700 W Cordova St - 14 metres East of Howe St",
+   "DESCRIPTION":"Mexican Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122093113147997,49.285193682320802 ]
+   },
+   "properties": {
+   "KEY":"C15",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Bandidas",
+   "LOCATION":"Authorised Parking Meter - North Side of 1000 W Georgia St",
+   "DESCRIPTION":"Vegan Cuisine "
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119749999999996,49.285657999999998 ]
+   },
+   "properties": {
+   "KEY":"C11",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Baoca'o",
+   "LOCATION":"Authorised Parking Meter South Side of 1000 Dunsmuir St",
+   "DESCRIPTION":"Spanish Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.116846018079997,49.281987224075202 ]
+   },
+   "properties": {
+   "KEY":"C14",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Brasilian Roots",
+   "LOCATION":"Authorised Parking Meter - East Side of 600 Seymour St",
+   "DESCRIPTION":"Brasilian Cuisine "
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.124511374389002,49.282054529421501 ]
+   },
+   "properties": {
+   "KEY":"C8",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Burger Holic",
+   "LOCATION":"Authorised Parking Meter East Side of 900 Burrard St",
+   "DESCRIPTION":"Burgers and Fries"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120373999999998,49.281810999999998 ]
+   },
+   "properties": {
+   "KEY":"DT40",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Cazba Express",
+   "LOCATION":"North Side of 700 Robson St - 50 Metres West of Granville St",
+   "DESCRIPTION":"Kebabs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122135785725007,49.282753364657303 ]
+   },
+   "properties": {
+   "KEY":"DT42",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Cheesey Does It",
+   "LOCATION":"South Side of 900 Robson St - 16 Metres West of Hornby St",
+   "DESCRIPTION":"Sandwiches"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.114732000000004,49.287210999999999 ]
+   },
+   "properties": {
+   "KEY":"C12",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Chickpea",
+   "LOCATION":"Authorised Parking Meter - North Side of W Cordova St",
+   "DESCRIPTION":"Vegetarian"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.106627254803996,49.283989749007603 ]
+   },
+   "properties": {
+   "KEY":"GT02",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Chou Chou Crepes",
+   "LOCATION":"North Side of 100 Water St - 10 Metres West of Abbott St",
+   "DESCRIPTION":"French Crepes"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119287999999997,49.287838000000001 ]
+   },
+   "properties": {
+   "KEY":"C21",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Come Arepa",
+   "LOCATION":"Authorised Parking Meter - 1000 W Hastings St",
+   "DESCRIPTION":"Venezuelan Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120309650842998,49.283508765027499 ]
+   },
+   "properties": {
+   "KEY":"DT59",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Commissary Connect",
+   "LOCATION":"East Side of 700 Hornby St - 22 metres South of W Georgia St",
+   "DESCRIPTION":"Variety Menu"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118581094106005,49.284905103152703 ]
+   },
+   "properties": {
+   "KEY":"DT70",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Commissary Connect",
+   "LOCATION":"West Side of 600 Hornby St - 6 Metres South of Dunsmuir St",
+   "DESCRIPTION":"Variety Menu"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.121397000000002,49.281730000000003 ]
+   },
+   "properties": {
+   "KEY":"DTT74",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Commissary Connect",
+   "LOCATION":"West Side of 800 Howe St- South of Robson St",
+   "DESCRIPTION":"Variety Menu"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.135271203846003,49.291241690861902 ]
+   },
+   "properties": {
+   "KEY":"DT71",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Didi's Greek",
+   "LOCATION":"South Side of 1700 Robson St - 10 Metres East of Denman St",
+   "DESCRIPTION":"Greek Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.112870852908998,49.287235462135399 ]
+   },
+   "properties": {
+   "KEY":"DT54",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Dim Sum Express",
+   "LOCATION":"East Side of 200 Howe St - 100 Metres North of W Cordova St",
+   "DESCRIPTION":"Dim Sum"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120443626709999,49.282367834776799 ]
+   },
+   "properties": {
+   "KEY":"C13",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Disco Cheetah",
+   "LOCATION":"Authorised Parking Meter West Side of 700 Howe St",
+   "DESCRIPTION":"Korean "
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.101569148690999,49.258474676041899 ]
+   },
+   "properties": {
+   "KEY":"OD18",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Dog Meister",
+   "LOCATION":"West Side of 2900 Main St - 20 Metres North of E 14th Ave",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.121098559160004,49.281928567065300 ]
+   },
+   "properties": {
+   "KEY":"DT49",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Eat Chicken Wraps",
+   "LOCATION":"West Side of 800 Howe St - 5 Metres South of Robson St",
+   "DESCRIPTION":"Wraps and Sandwiches"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118453000000002,49.288671999999998 ]
+   },
+   "properties": {
+   "KEY":"C9",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Feastro - The Rolling Bistro",
+   "LOCATION":"Authorised Parking Meter - Thurlow St at W Cordova St",
+   "DESCRIPTION":"Local Meats and Seafood"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120345228347006,49.282438663530201 ]
+   },
+   "properties": {
+   "KEY":"C16",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Feastro The Rolling Bistro",
+   "LOCATION":"Authorised Parking Meter West Side of 700 Howe St",
+   "DESCRIPTION":"Local Meats and Seafood"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.114194279396997,49.279797258236798 ]
+   },
+   "properties": {
+   "KEY":"DT73",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Fun Eats",
+   "LOCATION":"South Side of 200 West Georgia St - 8 Metres East of Hamilton St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.138921554364998,49.263483829402098 ]
+   },
+   "properties": {
+   "KEY":"OD03",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Holy Smokes",
+   "LOCATION":"South Side 1500 West Broadway - 6 Metres West of Granville St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.112525974405997,49.285906093977701 ]
+   },
+   "properties": {
+   "KEY":"DT69",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Japadog",
+   "LOCATION":"North Side of 600 W Cordova St - 6 Metres East of Granville St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.117884000000004,49.286363000000001 ]
+   },
+   "properties": {
+   "KEY":"DT26",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Japadog",
+   "LOCATION":"East Side of 500 Burrard St - 6 Metres South of West Pender St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.124363670915997,49.282419926839701 ]
+   },
+   "properties": {
+   "KEY":"DT52",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Japadog",
+   "LOCATION":"West Side of 800 Burrard St - 2.5 Metres North of Smithe St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.117632999999998,49.284218000000003 ]
+   },
+   "properties": {
+   "KEY":"DT16",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Just Bite Fresh",
+   "LOCATION":"West Side of Howe St - South of Dunsmuir St",
+   "DESCRIPTION":"Middle Eastern Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.100596999999993,49.273021000000000 ]
+   },
+   "properties": {
+   "KEY":"OD02",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Kalai's Curry Kitchen",
+   "LOCATION":"Northwest corner of Main St at Terminal Av",
+   "DESCRIPTION":"Indian Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.068886047286000,49.262216537032003 ]
+   },
+   "properties": {
+   "KEY":"OD06",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"La Bomba Taqueria",
+   "LOCATION":"South Side of 1700 E Broadway",
+   "DESCRIPTION":"Tacos and Fresh Salsas"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.111358832752003,49.285173911567398 ]
+   },
+   "properties": {
+   "KEY":"DT32",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"La Crema Gelato",
+   "LOCATION":"North Side of 500 W Cordova St - 59 Metres West of Richards St",
+   "DESCRIPTION":"Gelato and Ice Cream"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.142505040930004,49.287324013552997 ]
+   },
+   "properties": {
+   "KEY":"EB01",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mac BBQ",
+   "LOCATION":"South Side of 1800 Beach Av - East of Davie St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.142526485066000,49.287587823605200 ]
+   },
+   "properties": {
+   "KEY":"EB07",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mac BBQ",
+   "LOCATION":"South Side of 1800 Beach Av - West of Davie St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119611425531005,49.283289602204697 ]
+   },
+   "properties": {
+   "KEY":"DT64",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Marimba",
+   "LOCATION":"South Side of 800 W Georgia St - 30 Metres West of Howe St",
+   "DESCRIPTION":"Mexican Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.115997593017994,49.283807299327002 ]
+   },
+   "properties": {
+   "KEY":"GM17",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Master Chef's Kebab House",
+   "LOCATION":"East Side of 500 Granville St - 10 Metres North of Dunsmuir St",
+   "DESCRIPTION":"Kebabs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119039000000001,49.281956999999998 ]
+   },
+   "properties": {
+   "KEY":"DT67",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mr. Arancino",
+   "LOCATION":"West Side of Granville St - 75 Metres North of Robson St",
+   "DESCRIPTION":"Italian Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.115237361116996,49.280801242943497 ]
+   },
+   "properties": {
+   "KEY":"DT05",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mr. Camaron",
+   "LOCATION":"North Side of W Georgia St - 10 Metres West of Homer St",
+   "DESCRIPTION":"Drinks and Smoothies"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120238999999998,49.281725999999999 ]
+   },
+   "properties": {
+   "KEY":"DTT58",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mr. Shawarma",
+   "LOCATION":"North Side of 700 Robson St - Mid Block",
+   "DESCRIPTION":"Shawarma"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120163000000005,49.285361000000002 ]
+   },
+   "properties": {
+   "KEY":"C3",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mr. Shawarma",
+   "LOCATION":"Authorised Parking Meter - North Side of 1000 Melville St",
+   "DESCRIPTION":"Shawarma"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.117190394480005,49.283019965893203 ]
+   },
+   "properties": {
+   "KEY":"GM16",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mr. Shawarma",
+   "LOCATION":"East Side of 600 Granville St - 80 Metres North of W Georgia St",
+   "DESCRIPTION":"Middle Eastern Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.112040050998999,49.278746328918203 ]
+   },
+   "properties": {
+   "KEY":"DT01",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mr. Tube Steak",
+   "LOCATION":"East Side of 600 Beatty St - 6 Metres North of West Georgia St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120684903216002,49.282209486534803 ]
+   },
+   "properties": {
+   "KEY":"C10",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Mum's Grilled Cheese Truck",
+   "LOCATION":"Authorised Parking Meter -West Side of 700 Howe St",
+   "DESCRIPTION":"Grilled Cheese and Soups"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118591524118003,49.282362614727901 ]
+   },
+   "properties": {
+   "KEY":"GM13",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Nami ",
+   "LOCATION":"West Side of 700 Granville St - South of W Georgia St",
+   "DESCRIPTION":"Vietnamese Cuisine "
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.129163571627004,49.279276035905802 ]
+   },
+   "properties": {
+   "KEY":"DT15",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Nami ",
+   "LOCATION":"West Side of 1100 Burrard St - 10 Metres North of Davie St",
+   "DESCRIPTION":"Vietnamese Cuisine "
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118453808195000,49.282542325066203 ]
+   },
+   "properties": {
+   "KEY":"GM15",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Porky's Sandwiches",
+   "LOCATION":"South Side of 700 W Georgia St - 20 Metres West of Granville St",
+   "DESCRIPTION":"Sandwiches"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120079603126996,49.281297184851297 ]
+   },
+   "properties": {
+   "KEY":"GM10",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Potato Tornado",
+   "LOCATION":"West Side of 800 Granville St - 6 Metres South of Robson St",
+   "DESCRIPTION":"Potato Based Dishes"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.106548732321997,49.271307845850998 ]
+   },
+   "properties": {
+   "KEY":"C25",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Red Truck Beer Co.",
+   "LOCATION":"Authorised Parking Meter East Side of 1600 Manitoba St",
+   "DESCRIPTION":"Pub Fare"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122541268297994,49.285493728805498 ]
+   },
+   "properties": {
+   "KEY":"C24",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Red Truck Beer Co.",
+   "LOCATION":"Authorised Parking Meter North Side of 1000 W Georgia St",
+   "DESCRIPTION":"Pub Fare"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.128964999999994,49.279378000000001 ]
+   },
+   "properties": {
+   "KEY":"DT35",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Russett Shack",
+   "LOCATION":"West Side of 1100 Burrard St - 10 Metres North of Davie St",
+   "DESCRIPTION":"Potato Based Dishes"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.117466131689994,49.282819013251597 ]
+   },
+   "properties": {
+   "KEY":"GM20",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Salty's Lobster Shack",
+   "LOCATION":"East Side of 600 Granville St - 30 Metres North of W Georgia St",
+   "DESCRIPTION":"Seafood"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.139739000000006,49.286003000000001 ]
+   },
+   "properties": {
+   "KEY":"EB06",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"San Juan Family Farm",
+   "LOCATION":"Authorised Parking Meter North Side of 1600 Davie St",
+   "DESCRIPTION":"Fruit Shakes, Smoothies and Juices"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.123682322296006,49.291082145303200 ]
+   },
+   "properties": {
+   "KEY":"DT56",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Sea Dogs",
+   "LOCATION":"Coal Harbour Seawall  - 200 Metres Northeast of Broughton St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118501288120001,49.282572140421500 ]
+   },
+   "properties": {
+   "KEY":"GM21",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Soho Road Naan Kebab",
+   "LOCATION":"South Side of 700 W Georgia St - 20 Metres West of Granville St",
+   "DESCRIPTION":"Indian Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120317000000000,49.281773000000001 ]
+   },
+   "properties": {
+   "KEY":"DTT36",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Suassy Thai",
+   "LOCATION":"North Side of 700 Robson St - Mid Block",
+   "DESCRIPTION":"Thai Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122623764676007,49.285532114976299 ]
+   },
+   "properties": {
+   "KEY":"C26",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Super Thai",
+   "LOCATION":"Authorised Parking Meter North Side of 1000 W Georgia St",
+   "DESCRIPTION":"Thai Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119001999999995,49.286031000000001 ]
+   },
+   "properties": {
+   "KEY":"C4",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Superbaba",
+   "LOCATION":"Authorised Parking Meter West Side 500 Burrard St",
+   "DESCRIPTION":"Tacos and Burritos"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119509851201002,49.272850160917400 ]
+   },
+   "properties": {
+   "KEY":"DT47",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Sweet Spot",
+   "LOCATION":"Foot of Davie St - 2 Metres South of Marinaside Cres.",
+   "DESCRIPTION":"Desserts"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.120529317155004,49.282301179211203 ]
+   },
+   "properties": {
+   "KEY":"C5",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Tacofino",
+   "LOCATION":"Authorised Parking Meter West Side of 700 Howe St",
+   "DESCRIPTION":"Tacos and Burritos"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.125618908570004,49.286591548247699 ]
+   },
+   "properties": {
+   "KEY":"C17",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Tacofino",
+   "LOCATION":"Authorised Parking Meter North Side of Alberni St - East of Bute St",
+   "DESCRIPTION":"Tacos and Burritos"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118158491193000,49.286538400086101 ]
+   },
+   "properties": {
+   "KEY":"C20",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"The Fryinig Pan",
+   "LOCATION":"Authorised Parking Meter West Side of 500 Burrard St",
+   "DESCRIPTION":"Fried Chicken Sandwiches"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.115003999999999,49.287318999999997 ]
+   },
+   "properties": {
+   "KEY":"C23",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"The Fryinig Pan",
+   "LOCATION":"Authorised Parking Meter - North Side of 800 W Cordova St",
+   "DESCRIPTION":"Fried Chicken Sandwiches"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122696998340004,49.283102350331802 ]
+   },
+   "properties": {
+   "KEY":"DT41",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"The Juice Truck",
+   "LOCATION":"South Side of 900 Robson - 6 Metres East of Burrard St",
+   "DESCRIPTION":"Juice and Smoothies"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.121519625651004,49.273835888687202 ]
+   },
+   "properties": {
+   "KEY":"DT72",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"The Loving Hut",
+   "LOCATION":"East Side of 1200 Pacific Boulevard - 10 Metres South of Davie St",
+   "DESCRIPTION":"Vegetarian and Vegan"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119361999999995,49.287858000000000 ]
+   },
+   "properties": {
+   "KEY":"C22",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"The Praguery",
+   "LOCATION":"Authorised Parking Meter - 1000 W Hastings St",
+   "DESCRIPTION":"Central European Desserts"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.119509663146999,49.288016431788698 ]
+   },
+   "properties": {
+   "KEY":"C19",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"The Reef",
+   "LOCATION":"Authorised Parking Meter - East Side of Thurlow St - North of W Hastings St",
+   "DESCRIPTION":"Caribbean"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.118066770004006,49.282314404316999 ]
+   },
+   "properties": {
+   "KEY":"GM04",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Van Dog",
+   "LOCATION":"South Side of 600 W Georgia St - 6 Metres East of Granville St",
+   "DESCRIPTION":"Western"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.122660630477995,49.283084042815403 ]
+   },
+   "properties": {
+   "KEY":"DT06",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Van Dog",
+   "LOCATION":"South Side of 900 Robson St - 12 Metres East of Burrard St",
+   "DESCRIPTION":"Hot Dogs"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.117533501725006,49.286902642864497 ]
+   },
+   "properties": {
+   "KEY":"C1",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Vie Niapolotan",
+   "LOCATION":"Authorised Parking Meter - West Side of 400 Burrard St",
+   "DESCRIPTION":"Italian Cuisine"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -123.115175231668999,49.284522117000797 ]
+   },
+   "properties": {
+   "KEY":"DT31",
+   "VENDOR_TYPE":"vendor_food",
+   "STATUS":"open",
+   "BUSINESS_NAME":"Wak Wak",
+   "LOCATION":"West Side of 500 Granville St - 10 Metres South of West Pender St",
+   "DESCRIPTION":"Burgers and Fries"
+   }
+ }
+]
+}
