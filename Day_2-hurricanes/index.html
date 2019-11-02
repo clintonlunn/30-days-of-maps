@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Quick Start - Leaflet</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+        integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+        crossorigin=""></script>
+
+
+
+</head>
+
+<body>
+
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+
+    <div id="map"></div>
+    <script>
+        var mymap = L.map('map').setView([0, 0], 2);
+
+        const hurricaneColors = {
+            0: '#00faf4',
+            1: '#ffffcc',
+            2: '#ffe775',
+            3: '#ffc140',
+            4: '#ff8f20',
+            5: '#ff6060'
+        }
+
+        subHurricaneColor = {
+            'Tropical Depression': '#5ebaff	',
+            'Subtropical Storm': '#00faf4',
+            'Tropical Storm': '#00faf4',
+            'Disturbance Storm': '#80ccff',
+        }
+
+        var Esri_WorldImagery = L.tileLayer(
+            'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+                attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+            }).addTo(mymap);
+
+
+        let xhr = new XMLHttpRequest();
+        xhr.open('GET', '../data/hurricanes.json');
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.responseType = 'json';
+        xhr.onload = function () {
+            const hurricaneData = xhr.response.features
+            if (xhr.status !== 200) return
+
+            const hurricanesLayer = L.geoJSON(hurricaneData, {}).addTo(mymap);
+
+            hurricanesLayer.eachLayer((layer) => {
+                if (layer.feature.properties.SS > 0) {
+                    layer.setStyle({
+                        "color": hurricaneColors[layer.feature.properties.SS],
+                        "weight": 8,
+                        "opacity": 0.75
+                    })
+                } else {
+                    layer.setStyle({
+                        "color": subHurricaneColor[layer.feature.properties.STORMTYPE],
+                        "weight": 8,
+                        "opacity": 0.75
+                    })
+
+                }
+
+                const popupContent = L.popup().setContent(`Hurricane name: ${layer.feature.properties.STORMNAME} <br>
+                                                Hurricane strength: ${layer.feature.properties.STORMTYPE}`);
+                layer.bindPopup(popupContent, {
+                    closeButton: false,
+                });
+
+                layer.on('mouseover', () => {
+                    layer.setStyle({
+                        color: 'red'
+                    });
+                    layer.openPopup();
+
+                });
+
+                layer.on('mouseout', () => {
+                    layer.setStyle({
+                        color: hurricaneColors[layer.feature.properties.SS]
+                    });
+                    layer.closePopup();
+                });
+            });
+
+        };
+        xhr.send();
+    </script>
+
+
+
+</body>
+
+</html>
