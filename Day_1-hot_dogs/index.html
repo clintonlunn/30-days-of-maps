@@ -44,37 +44,42 @@
             iconUrl: '../data/hotDog.png'
         });
 
-        let xhr = new XMLHttpRequest();
-        xhr.open('GET', '../data/streetFoods.json');
-        xhr.setRequestHeader('Content-Type', 'application/json');
-        xhr.responseType = 'json';
-        xhr.onload = function () {
-            console.log(xhr.response.features);
-            const data = xhr.response.features
-            const hotDogData = data.filter(point => point.properties.DESCRIPTION === "Hot Dogs")
-            if (xhr.status !== 200) return
+        // Replace ./data.json with your JSON feed
+        const hotDogDatas = () => {
+            fetch('../data/streetFoods.json')
+                .then(response => {
+                    return response.json()
+                })
+                .then(data => {
+                    const fullData = data.features;
 
-            L.geoJSON(hotDogData, {
-                pointToLayer: function (feature, latlng) {
-                    const popup = L.popup().setContent("My hot dogs are so good they call me " + feature
-                        .properties.BUSINESS_NAME);
-                    const marker = L.marker(latlng, {
-                        icon: hotDogIcon
+                    // Work with JSON data here
+                    return fullData.filter(point => {
+                        return point.properties.DESCRIPTION === "Hot Dogs"
                     });
-                    marker.bindPopup(popup);
+                })
+                .then(data => {
+                    L.geoJSON(data, {
+                        pointToLayer: function (feature, latlng) {
 
-                    // var mypopup = L.popup().setContent("latlng: " + latlng);
-                    // var mymarker = L.circleMarker(latlng, geojsonMarkerOptions);
+                            const popup = L.popup().setContent("I'm a hot doggy dog");
+                            const marker = L.marker(latlng, {
+                                icon: hotDogIcon
+                            });
+                            marker.bindPopup(popup);
 
-                    // mymarker.bindPopup(mypopup);
-                    // return mymarker;
+                            return marker;
+                        }
+                    }).addTo(mymap);
+                })
+                .catch(err => {
+                    console.log("You done messed");
+                    console.error(err);
+                })
+        }
 
+        hotDogDatas();
 
-                    return marker;
-                }
-            }).addTo(mymap);
-        };
-        xhr.send();
 
         L.tileLayer(
             'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
