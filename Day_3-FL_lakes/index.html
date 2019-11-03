@@ -46,7 +46,7 @@
     <div id="map"></div>
     <script>
         var mymap = L.map('map', {
-            renderer: L.canvas()
+            // renderer: L.canvas()
         }).setView([27.6, -81.5], 8);
         var Esri_WorldImagery = L.tileLayer(
             'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
@@ -56,10 +56,10 @@
 
         const lakes = L.esri.featureLayer({
             url: 'https://ca.dep.state.fl.us/arcgis/rest/services/OpenData/LAKES/MapServer/0/',
+            where: "SHAPE.AREA > 10000000",
             style: function () {
                 return {
-                    fill: 'url(../data/kermit.gif)'
-                    // color: 'purple'
+                    fill: 'url(../data/flowingWater.gif)',
                 }
             }
         }).addTo(mymap);
